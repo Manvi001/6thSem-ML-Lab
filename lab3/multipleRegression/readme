@@ -1,0 +1,9 @@
+Write Python code to implement the following
+1.) Considering the data file hiring.csv. The file contains hiring statics for a firm such as experience of candidate, his written test score and personal interview score. Based on these 3 factors, HR will decide the salary. Given this data, you need to build a Multiple Linear Regression model for HR department that can help them decide salaries for future candidates. Using this predict salaries for following candidates,
+2 yr experience, 9 test score, 6 interview score
+12 yr experience, 10 test score, 10 interview score
+
+2.)Considering the data file 1000_companies.csv. The file contains profit statics for a firm such as R&D Spend, Administration, Marketing Spend and State. Based on these four factors build a Multiple Linear Regression model to predict the profit. Using this predict profit for following,
+91694.48  R&D Spend, 515841.3  Administration, 11931.24  Marketing Spend, Florida State
+ 
+Note: If required, apply the necessary data processing steps to data files.
