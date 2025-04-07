@@ -1,4 +1,4 @@
-KNN Implementation for Iris Datasets
+KNN Implementation for Diabetes Datasets
 steps followed are:
 
 1.Load and preprocess the data
