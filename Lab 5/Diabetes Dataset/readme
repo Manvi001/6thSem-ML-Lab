@@ -1,0 +1,10 @@
+KNN Implementation for Iris Datasets
+steps followed are:
+
+1.Load and preprocess the data
+
+2.Split into training (80%) and testing (20%)
+
+3.Build and evaluate the KNN classifier
+
+4.Display accuracy, confusion matrix, and classification report
