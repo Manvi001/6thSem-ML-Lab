@@ -1,0 +1,11 @@
+Build Support vector machine model for IRISb and for letter-recognition datasets
+
+SVM classifier
+
+Kernels: Linear and RBF (for IRIS)
+
+Train-test split (80%-20%)
+
+Accuracy score and Confusion matrix
+
+ROC Curve and AUC (for letter-recognition)
